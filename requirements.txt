@@ -1,0 +1,4 @@
+Numpy
+Pandas
+Plotly
+Streamlit

@@ -1,0 +1,17 @@
+---
+alwaysApply: true
+---
+
+Nombre del proyecto: Ciclo de conversión de efectivo
+
+Objetivo: A partir de tres variables proporcionadas por el usuario, calcular el Ciclo de conversión de efectivo (días de inventario, días de cuentas por cobrar, días de cuentas por pagar).
+
+Generar un gráfico en Plotly que represente visualmente el resultado, utilizando las variables disponibles.
+
+Solo se permite el uso de las siguientes bibliotecas: streamlit, pandas, numpy y plotly.
+
+El código deber estar estructurado y comentado, idealmente para ser utilizado en una clase de análisis financiero con Python.
+
+Evitar el uso de librerías adicionales o recursos externos no autorizados. Todas las salidas deben lucir profesionales y estar orientadas a usuarios con perfil técnico-financiero
+
+Las visualizaciones deben incluir títulos claros, etiquetas y estar orientadas a la interpretación gerencial de los resultados
